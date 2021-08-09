@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/03/2018, 01:37:00 PM
+    Author     : sosac
+*/
+
+#wrapper{
+   width: 80%; 
+   margin: 0 auto;
+   height: 400px;
+  
+}
+
+#wrapperTable{
+   clear: both; 
+   width: 90%; 
+   margin: 0 auto;
+   height: 400px;
+   padding-top: 2em;
+}
+
+
+.producto{
+  width: 100%;
+  height: 200px;  
+}
+
+p{
+  text-align: center;  
+}
+
+#msgError{
+  width: 90%; 
+  margin: 0 auto;
+  height: 30px;  
+}
+
+#carrito{
+   width: 90%; 
+   margin: 0 auto;
+   height: 30px;
+}
+
+#carrito p{
+   float: right;  
+}
+
+nav {
+  margin: 0 auto;
+  width: 80%;
+  height: 30px;
+}
+
+nav ul li {
+  text-decoration: none; 
+  display: inline;
+  float: right;
+}
